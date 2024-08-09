@@ -1,5 +1,5 @@
 
-# MERN Stack E-commerce Website
+# E-commerce Website
 
 This is a fully functional e-commerce website built using the MERN stack (MongoDB, Express, React, Node.js) and Socket.io for real-time communication. The website allows users to browse products, add them to their cart, and checkout securely using Stripe payment gateway.
 
@@ -50,26 +50,4 @@ NODE_ENV=development
 ![Screenshot (85)](https://user-images.githubusercontent.com/105654052/236002913-adc0b369-0652-47bf-930c-3fb1d4ac0ffe.png)
 
 
-## Contributing
 
-Contributions are welcome! 
-If you find any bugs or want to suggest new features, please create an issue or submit a pull request.
-
-
-## Demo
-
-https://frontend-uvxf.onrender.com/
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
-
-## Contact with me 
-email : mdariful6403@gmail.com
-    
